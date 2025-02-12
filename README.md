@@ -17,7 +17,7 @@ Ensure you have the following installed on your system:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/telegram-bot.git
+   https://github.com/RutikYerawar/Telegram-bot
    cd telegram-bot
    ```
 
